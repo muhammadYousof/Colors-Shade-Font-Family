@@ -1,0 +1,62 @@
+*{
+    text-align: center;
+    text-decoration: underline rgb(210, 30, 30);
+    text-transform: capitalize;
+    word-spacing: 10px;
+    background-color: rgb(222, 189, 135);
+    text-shadow: 1px 1px 0px rgb(80, 162, 255);
+    
+}
+#c1{
+    font-family: 'Borel', cursive;
+    background-color: rgba(85, 107, 47, 0.104);
+}
+#c2{
+    font-family: 'Great Vibes', cursive;
+    background-color: rgba(85, 107, 47, 0.203);
+}
+#c3{
+    font-family: 'Gochi Hand', cursive;
+    background-color: rgba(85, 107, 47, 0.302);
+}
+#c4{
+    font-family: 'Mrs Saint Delafield', cursive;
+    background-color: rgba(85, 107, 47, 0.405);
+}
+#c5{
+    font-family: 'Reggae One', cursive;
+    background-color: rgba(85, 107, 47, 0.486);
+}
+#c6{
+    font-family: 'DynaPuff', cursive;
+    background-color: rgba(85, 107, 47, 0.584);
+}
+#c7{
+    
+font-family: 'Pacifico', cursive;
+background-color: rgba(85, 107, 47, 0.656);
+}
+#c8{
+    font-family: 'Shadows Into Light', cursive;
+    background-color: rgba(85, 107, 47, 0.722);
+}
+#c9{
+    font-family: 'Acme', sans-serif;
+    background-color: rgba(85, 107, 47, 0.776);
+}
+#c10{
+    font-family: 'Lumanosimo', cursiv;
+    background-color: rgba(85, 107, 47, 0.817);
+}
+#c11{
+    font-family: 'Courgette', cursive;
+    background-color: rgba(85, 107, 47, 0.852);
+}
+#c12{
+    font-family: 'Orbitron', sans-seri;
+    background-color: rgba(85, 107, 47, 0.916);
+}
+#c13{
+    font-family: 'Yellowtail', cursiv;
+    background-color: rgba(85, 107, 47, 0.994);
+}
